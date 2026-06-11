@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V0 Pin=P3-5
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Member To Class: ClassName=Main Member=Component D1 LTST-C190KGKT
+Added Member To Class: ClassName=Main Member=Component D3 NRVBSS14HE
+Added Member To Class: ClassName=Main Member=Component R4 1k
+Added Member To Class: ClassName=Main Member=Component R5 5.1k
+Added Member To Class: ClassName=Main Member=Component R7 1k

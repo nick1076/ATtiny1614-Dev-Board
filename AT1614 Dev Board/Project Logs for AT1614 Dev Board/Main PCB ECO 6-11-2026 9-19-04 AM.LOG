@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=UPDI Pin=D4-1
+Removed Pin From Net: NetName=3V3 Pin=D4-2
+Change Component Footprint: Designator=D4 Old Footprint=DIOD-SOD123-2_V New Footprint=FP-477AD-MFG
+Change Component Comment : Designator=D4 Old Comment=1N4148W-7-F New Comment=NRVBSS14HE
+Change Managed Component Library Link : Designator=D4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F823AD29-621F-44F4-BA98-97744F3C2356 New ItemGUID=42EE7BA1-14EE-46E7-B67A-D745F21036F1 Old RevisionGUID=0FCB59B6-6CF2-40FF-8818-FCFF75A61028 New RevisionGUID=C2D151FC-A029-4544-8794-A4D1BDB3C939
+Change component parameters: Designator = "D4" ("D4"); Footprint = "DIOD-SOD123-2_V"; UniqueID = "\QNFYYPSM" ("\QNFYYPSM")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "55pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "750µm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Forward Surge Current (Ifsm)"; Value = "25A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Repetitive Reverse Voltage (Vrrm)"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "93203856"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Reverse Current"; Value = "5µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 61300311121
+Add Component: Footprint Not Found 61300411121
+Added Pin To Net: NetName=3V3 Pin=D4-1
+Added Pin To Net: NetName=UPDI Pin=D4-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin P2-3
+Add Pin To Net: Unknown Pin: Pin P2-4
+Add Class Member: Failed to add class member : Component P1 61300311121
+Add Class Member: Failed to add class member : Component P2 61300411121
